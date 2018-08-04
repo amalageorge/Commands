@@ -41,6 +41,9 @@ to create a new branch
 ### `git pull`
 pulls files from remote repository to local
 
+### `git checkout -b <branch_name>`
+creates new branch
+
 
 
 ## Linux
